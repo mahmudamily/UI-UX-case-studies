@@ -1,5 +1,3 @@
-# UI-UX-case-studies
-UI/UX case studies, product thinking, and design experiments
 Hi, I’m MahmudA Mily 👋  
 I’m a UI/UX designer focused on solving real product problems.
 
